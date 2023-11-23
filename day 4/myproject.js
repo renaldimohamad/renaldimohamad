@@ -67,6 +67,8 @@ function renderBlog() {
                 <p style="font-size: 10px; margin-bottom: 10px; color: black;">durasi: 3 bulan</p>
 
                 <p style="font-size: 10px; margin-bottom: 10px; color: black;">${datamyProject[index].description}</p>
+           
+            
                 <div
                     style="display: flex; flex-direction: row; gap: 20px; margin-bottom: 20px; justify-content: end; width: 100px;">
                     <img src="./icons/play-store.png" alt="" style="width: 15px;">
