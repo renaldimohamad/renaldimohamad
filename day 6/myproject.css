@@ -1,0 +1,278 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+* {
+    text-decoration: none;
+    font-family: 'poppins', sans-serif;
+
+}
+
+body {
+    background-color: #e8dfdf;
+
+}
+
+.ul-navigation {
+    list-style-type: none;
+    font-size: large;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    width: 100%;
+    margin-left: 20px;
+
+
+}
+
+.content-navigation {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+
+}
+
+
+
+.btn-content {
+    background-color: black;
+    list-style-type: none;
+    color: white;
+    padding: 5px;
+    width: 100px;
+    border-radius: 10px;
+    text-decoration: none;
+    text-align: center;
+    margin-right: 40px;
+}
+
+
+.img-dumbways {
+    width: 50px;
+}
+
+.nav-link {
+    font-size: 20px;
+}
+
+
+
+.my-project {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.add-my {
+    width: 410px;
+    height: 30px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    background-color: red;
+}
+
+.my-date {
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+
+}
+
+.dsp-my {
+    width: 410px;
+    border-radius: 5px;
+
+}
+
+.judul-my {
+    width: 415px;
+}
+
+.date-star {
+    display: flex;
+    flex-direction: row;
+}
+
+.submit-my {
+    background-color: black;
+    color: white;
+    width: 100px;
+    border-radius: 20px;
+    height: 30px;
+
+}
+
+.upload-my {
+    display: flex;
+    flex-direction: column;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+
+
+.label-input {
+    background-color: #f4f3f3;
+    border: 1px solid #c4c4c4;
+    margin-bottom: 7px;
+    height: 25px;
+    width: 410px;
+    border-radius: 10px;
+    padding: 3px;
+    margin-bottom: 20px;
+
+}
+
+.start-label {
+    border: 1px solid #c4c4c4;
+    width: 195px;
+    height: 25px;
+    border-radius: 7px;
+    margin-bottom: 10px;
+
+}
+
+.end-label {
+    border: 1px solid #c4c4c4;
+    width: 195px;
+    height: 25px;
+    border-radius: 7px;
+
+}
+
+#inputDescription {
+    height: 90px;
+}
+
+.check-input {
+    width: 400px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.file-profile {
+    background-color: #f4f3f3;
+    width: 400px;
+    padding: 7px;
+    height: 10px;
+    border-radius: 7px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 320px;
+    margin-bottom: 20px;
+
+}
+
+
+
+
+
+
+.submit-my {
+    background-color: black;
+    color: white;
+    width: 100px;
+    border-radius: 10px;
+    margin-left: 300px;
+    margin-bottom: 100px;
+}
+
+.my-judul {
+    width: 400px;
+    font-weight: bold;
+
+}
+
+
+
+.humberger-navbar {
+    display: none;
+    font-size: 20px;
+}
+
+.humberger-navbar a {
+    background-color: #999;
+    color: white;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.humberger-link:hover {
+    background-color: orangered;
+}
+
+#humberger-me {
+    display: none;
+}
+
+
+@media only screen and (max-width: 425px) {
+    .upload-my {
+        font-size: ;
+    }
+
+    #humberger-me {
+        display: block;
+        margin-right: 20px;
+    }
+
+    .collapse {
+        display: none;
+    }
+
+    .upload-my {
+        width: 100%;
+
+    }
+
+    .label-input {
+        width: 85%;
+    }
+
+    .start-label {
+
+        width: 160px;
+
+
+    }
+
+    .end-label {
+
+        width: 160px;
+
+
+    }
+
+    .my-judul {
+        width: 85%;
+
+    }
+
+    .check-input {
+
+        width: 85%;
+
+    }
+
+    .file-profile {
+        width: 83%;
+        gap: 245px;
+    }
+
+    .submit-my {
+
+        margin-left: 238px;
+
+    }
+
+
+}

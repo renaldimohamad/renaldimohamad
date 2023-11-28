@@ -1,0 +1,318 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+* {
+    text-decoration: none;
+    font-family: 'poppins', sans-serif;
+}
+
+body {
+    background-color: #d7cdcd;
+}
+
+.nav-content {
+
+
+    height: 50px;
+    margin-bottom: 30px;
+
+}
+
+.content-navigation {
+
+    background-color: white;
+    height: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+
+}
+
+.img-dumbways {
+    width: 45px;
+}
+
+.ul-navigation {
+    list-style-type: none;
+    font-size: large;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    width: 100%;
+
+
+}
+
+.btn-content {
+    background-color: black;
+    list-style-type: none;
+    color: white;
+    padding: 10px;
+    width: 100px;
+    border-radius: 10px;
+    text-decoration: none;
+    text-align: center;
+    margin-right: 40px;
+}
+
+.container {
+    border: solid 1px #f4f0f099;
+    background-color: #f4f0f099;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.title-me {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.paragraf-me {
+    width: 600px;
+    display: flex;
+    flex-direction: row;
+    font-size: 15px;
+
+}
+
+.img-me {
+    width: 250px;
+
+
+}
+
+.name-renaldi {
+    font-size: 20px;
+    font-style: normal;
+    border-radius: 20px;
+}
+
+.button-content {
+    background-color: black;
+    color: white;
+    border-radius: 100px;
+    width: 100px;
+    margin-bottom: 50px;
+}
+
+.download-content {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.download-img {
+    height: 20px;
+    width: 30px;
+    padding-left: 10px;
+}
+
+
+.button-me {
+    background-color: black;
+    color: white;
+    border-radius: 100px;
+    width: 100px;
+    padding: 4px;
+}
+
+.download-me {
+
+    width: 96%;
+    gap: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 20px;
+    padding: 1px;
+}
+
+.logo-me {
+    width: 96%;
+
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+
+}
+
+.img-logo {
+    width: 20px;
+    margin-bottom: 20px
+}
+
+
+.con-profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.name-profile {
+
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+}
+
+.container-profile {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+
+#humberger-me {
+    display: none;
+}
+
+#humberger-me {
+    display: none;
+}
+
+.humberger-navbar {
+    display: none;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.humberger-navbar a {
+    background-color: #999;
+    color: white;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+    margin-bottom: 1px;
+}
+
+.humberger-link:hover {
+    background-color: orangered;
+}
+
+
+@media only screen and (max-width: 425px) {
+    .navigation-profile {
+        width: 100%;
+    }
+
+    .collapse {
+        display: none;
+    }
+
+    #humberger-me {
+        display: block;
+    }
+
+    .profile-navbar {
+        display: block;
+
+    }
+
+    .humberger-navbar {
+        display: none;
+    }
+
+    #humberger-me {
+        display: block;
+        margin-right: 20px;
+    }
+
+    .collapse {
+        display: none;
+    }
+
+    .container-profile {
+
+        gap: 7px;
+    }
+
+    .img-dumbways {}
+
+    .con-profile {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .container {
+        border: solid 1px #f4f0f099;
+        background-color: #f4f0f099;
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+
+    }
+
+    .paragraf-me {
+        width: 90%;
+        display: flex;
+        font-size: 12px;
+
+
+    }
+
+    .name-profile {
+        background-color: white;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: 4%;
+
+
+    }
+
+    .name-renaldi {
+        font-size: 15px;
+        font-weight: bold;
+
+
+
+    }
+
+    .container-profile {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .button-me {
+        background-color: black;
+        color: white;
+        border-radius: 100px;
+        width: 100px;
+        padding: 4px;
+    }
+
+    .download-me {
+
+        width: 90%;
+        gap: 50px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        margin-bottom: 20px;
+        padding: 1px;
+    }
+
+    .logo-me {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    .img-logo {}
+
+
+
+}
