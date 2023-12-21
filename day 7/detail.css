@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+* {
+    text-decoration: none;
+    font-family: 'poppins', sans-serif;
+
+}
+
+body {
+    background-color: #ddd1d199;
+}
+
+.navbar-profile {
+    height: 50px;
+}
+
+.ul-navigation {
+    list-style-type: none;
+    font-size: large;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    width: 100%;
+    margin-left: 20px;
+}
+
+.content-navigation {
+    background-color: white;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+
+}
+
+
+
+.btn-content {
+    background-color: black;
+    list-style-type: none;
+    color: white;
+    padding: 5px;
+    width: 100px;
+    border-radius: 10px;
+    text-decoration: none;
+    text-align: center;
+    margin-right: 40px;
+
+}
+
+.img-dumbways {
+    width: 50px;
+}
+
+.nav-link {
+    font-size: 20px;
+}
+
+.h1-profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-detailmyproject {
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+}
+
+.img-profile {
+    width: 600px;
+    height: 300px;
+}
+
+.duration-profile {
+    display: flex;
+    flex-direction: column;
+}
+
+.icons-calender {
+    width: 15px;
+    height: 12px;
+}
+
+.node-socket {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+
+
+
+
+.humberger-navbar {
+    display: none;
+    font-size: 20px;
+}
+
+.humberger-navbar a {
+    background-color: #999;
+    color: white;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.humberger-link:hover {
+    background-color: orangered;
+}
+
+.container-myproject {
+    border: solid 1px none;
+    background-color: white none;
+}
+
+#humberger-me {
+    display: none;
+}
+
+@media only screen and (max-width: 425px) {
+
+    body {
+        background-color: #d7cdcd;
+    }
+
+    #humberger-me {
+        display: block;
+    }
+
+    #humberger-me {
+        margin-right: 20px;
+    }
+
+    .collapse {
+        display: none;
+    }
+
+    .navbar-profile {
+        background-color: white;
+        margin-bottom: 20px;
+        height: 50px;
+    }
+
+    .h1-profile {
+        width: 100%;
+        font-size: 10px;
+        margin-bottom: 20px;
+    }
+
+    .img-detailmyproject {
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+        align-items: center;
+
+    }
+
+    .duration-profile {
+        font-size: 14px;
+        width: 86%;
+    }
+
+
+
+    .img-profile {
+        width: 90%;
+
+    }
+
+    .paragraf-myproject {
+        font-size: 12px;
+        width: 90%;
+
+        margin-left: 20px;
+    }
+
+    .container-myproject {
+        border: solid 1px #f4f0f099;
+        background-color: #f4f0f099;
+    }
+
+
+
+}
