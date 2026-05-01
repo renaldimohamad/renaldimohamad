@@ -67,5 +67,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer&width=1000" />
   <br />
-  <p>🚀 Happy Coding! • © 2024 Renaldi Mohamad</p>
+  <p>🚀 Happy Coding! • © 2026 Renaldi Mohamad</p>
 </div>
