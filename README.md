@@ -1,70 +1,71 @@
 <div align="center">
 
-# Hi, I am Renaldi ✨
-### Full-Stack Developer • Software Engineer • React - Next.js - Vue - Nuxt
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,7,8,10,12,14,15&height=250&section=header&text=Renaldi%20Mohamad&fontSize=70&fontAlignY=35&animation=twinkling" />
 
-[![Website](https://img.shields.io/badge/PORTFOLIO-renaldi.fun-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](http://renaldi.fun)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-renaldimohamad-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renaldimohamad/)
+# 👋 Hi there, I'm Renaldi Mohamad
+### 🚀 Full-Stack Engineer | Software Architect | AI Enthusiast
+
+[![Website](https://img.shields.io/badge/PORTFOLIO-renaldi.fun-00d1ff?style=for-the-badge&logo=google-chrome&logoColor=white)](http://renaldi.fun)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Renaldi%20Mohamad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renaldimohamad/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-@renaldimohamad-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renaldimohamad/)
 
 ---
+
+<p align="center">
+  <i>"Turning complex problems into elegant, scalable software solutions."</i>
+</p>
 
 </div>
 
-### 👤 About Me
+### 👤 Executive Summary
 
-- 🎓 **Full-Stack Developer** turning ideas into scalable web & mobile apps.
-- 💻 Specialized in **React, Next.js, Vue, and Nuxt** ecosystem.
-- 🚀 Building scalable frontend applications with **Clean Architecture**.
-- 🛠️ Currently developing **[AdWise AI](https://github.com/renaldimohamad/adwise-ai)** and **Renaldi Engine**.
-- 🌐 Passionate about software architecture, maintainability, and code quality.
-- 🇮🇩 Based in **Indonesia**, available for remote opportunities.
-
----
-
-### 🛠️ Languages & Technologies
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,vue,nuxt,nodejs,express,tailwind,mongodb,mysql,postgres,firebase" />
-  </a>
-</p>
+- 🏢 **Full-Stack Developer** dedicated to building high-performance web & mobile applications.
+- 💡 Expert in the **React / Next.js** and **Vue / Nuxt** ecosystems.
+- 🏗️ Focused on **Clean Architecture**, **SOLID Principles**, and **Scalable Systems**.
+- 🛠️ Currently engineering **[AdWise AI](https://github.com/renaldimohamad/adwise-ai)** — An AI-powered advertising intelligence engine.
+- 🇮🇩 Based in **Indonesia**, delivering global-standard code.
 
 ---
 
-### ⚙️ Tools I Use
+### 💻 Technical Arsenal
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,vercel,docker,linux" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nuxt,nodejs,express,tailwind,mongodb,mysql,postgres,firebase,docker,linux,vscode,git,github,figma,postman,vercel" />
+</div>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Selected Masterpieces
 
 #### 🌟 **[AdWise AI](https://github.com/renaldimohamad/adwise-ai)**
-> AI-driven ad campaign analysis platform. Resolving authentication and connectivity for seamless data-driven insights.
-- **Stack:** TypeScript • Next.js • Gemini AI • Tailwind CSS
+> **The Future of Ad Analytics.** Leveraging Gemini AI to provide deep insights into marketing campaigns.
+- **Tech:** `Next.js 14` • `TypeScript` • `Gemini AI` • `Tailwind CSS`
 
 #### 🏠 **[Ladorm](https://github.com/renaldimohamad/ladorm)**
-> A management system for student housing/dormitories, designed for efficiency and ease of use.
-- **Stack:** TypeScript • React • Node.js • MySQL
+> **Smart Dormitory Management.** A robust enterprise-grade system for modern housing operations.
+- **Tech:** `React` • `Node.js` • `MySQL` • `Clean UI`
 
 #### 🏗️ **[Renaldi Engine](https://github.com/renaldimohamad/renaldi-engine)**
-> A core framework or engine designed to streamline full-stack development workflows.
-- **Stack:** TypeScript • Architecture-focused
+> **Core Architecture.** A proprietary framework designed to accelerate full-stack development cycles.
+- **Tech:** `TypeScript` • `Software Design Patterns`
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Performance Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renaldimohamad&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Renaldi's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renaldimohamad&layout=compact&theme=tokyonight&hide_border=true&align=center" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=renaldimohamad&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=00d1ff&icon_color=00d1ff&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renaldimohamad&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=00d1ff&text_color=c9d1d9" alt="Top Languages" />
 </div>
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renaldimohamad&theme=vision-friendly-dark&hide_border=true&background=0D1117&ring=00d1ff&fire=00d1ff&currStreakLabel=00d1ff" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer&width=1000" />
   <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+  <p>🚀 Happy Coding! • © 2024 Renaldi Mohamad</p>
 </div>
