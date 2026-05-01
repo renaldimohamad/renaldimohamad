@@ -61,22 +61,6 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=renaldimohamad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=renaldimohamad&show_icons=true&theme=flat&hide_border=true&include_all_commits=true&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=renaldimohamad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  </picture>
-  
-  <br />
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=renaldimohamad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=renaldimohamad&layout=compact&theme=flat&hide_border=true&langs_count=8">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renaldimohamad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=renaldimohamad&theme=tokyonight&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=renaldimohamad&theme=flat&hide_border=true">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=renaldimohamad&theme=tokyonight&hide_border=true" alt="GitHub Streak">
