@@ -66,10 +66,12 @@
     <img src="https://github-readme-stats.vercel.app/api?username=renaldimohamad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
   </picture>
   
+  <br />
+
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=renaldimohamad&layout=compact&theme=tokyonight&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=renaldimohamad&layout=compact&theme=flat&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renaldimohamad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=renaldimohamad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=renaldimohamad&layout=compact&theme=flat&hide_border=true&langs_count=8">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renaldimohamad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
   </picture>
 </div>
 
