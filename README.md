@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,7,8,10,12,14,15&height=250&section=header&text=Renaldi%20Mohamad&fontSize=70&fontAlignY=35&animation=twinkling" />
+<img src="https://renaldi.fun/images/profile_aldi_2.jpg" width="180" style="border-radius: 50%; border: 4px solid #00d1ff; box-shadow: 0 0 20px rgba(0, 209, 255, 0.5);" />
 
 # 👋 Hi there, I'm Renaldi Mohamad
 ### 🚀 Full-Stack Engineer | Software Architect | AI Enthusiast
 
 [![Website](https://img.shields.io/badge/PORTFOLIO-renaldi.fun-00d1ff?style=for-the-badge&logo=google-chrome&logoColor=white)](http://renaldi.fun)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Renaldi%20Mohamad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renaldimohamad/)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-@renaldimohamad-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renaldimohamad/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-@aldybalagtown-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aldybalagtown/)
 
 ---
 
